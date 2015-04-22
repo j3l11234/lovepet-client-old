@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">loverpet</string>
-    <string name="hello_world">Hello world! yinqiyun</string>
+
+    <string name="hello_world">Hello world! yinqiyun and yangmengyue</string>
+
     <string name="action_settings">Settings</string>
 
 </resources>
