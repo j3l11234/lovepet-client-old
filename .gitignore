@@ -1,0 +1,10 @@
+/target/
+
+/.settings/
+/bin
+/gen
+/libs/android-support-v4.jar
+.classpath
+.project
+proguard-project.txt
+project.properties
